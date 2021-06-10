@@ -5,6 +5,7 @@ This is the [first part](https://www.puresourcecode.com/dotnet/blazor/write-a-re
 ![The result of this component](https://www.puresourcecode.com/wp-content/uploads/2021/06/BlazorCustomComponent.gif)
 
 ## More examples and documentation
+*   [Write a reusable Blazor component](https://www.puresourcecode.com/dotnet/blazor/write-a-reusable-blazor-component/)
 *   [Getting Started With C# And Blazor](https://www.puresourcecode.com/dotnet/net-core/getting-started-with-c-and-blazor/)
 *   [Setting Up A Blazor WebAssembly Application](https://www.puresourcecode.com/dotnet/blazor/setting-up-a-blazor-webassembly-application/)
 *   [Working With Blazor’s Component Model](https://www.puresourcecode.com/dotnet/blazor/working-with-blazors-component-model/)
