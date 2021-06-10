@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSCBlazor", "PSCBlazor\PSCBlazor.csproj", "{2AE21F74-6A71-4737-B6FD-3D9A39705DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSCBlazor.SimpleComponent", "PSCBlazor.SimpleComponent\PSCBlazor.SimpleComponent.csproj", "{FBCC7C72-7E1C-4333-A607-E1ECF3F41B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE21F74-6A71-4737-B6FD-3D9A39705DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE21F74-6A71-4737-B6FD-3D9A39705DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE21F74-6A71-4737-B6FD-3D9A39705DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE21F74-6A71-4737-B6FD-3D9A39705DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCC7C72-7E1C-4333-A607-E1ECF3F41B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCC7C72-7E1C-4333-A607-E1ECF3F41B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCC7C72-7E1C-4333-A607-E1ECF3F41B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCC7C72-7E1C-4333-A607-E1ECF3F41B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C11B33-CD25-4FD8-A803-397CB7997BD5}
+	EndGlobalSection
+EndGlobal

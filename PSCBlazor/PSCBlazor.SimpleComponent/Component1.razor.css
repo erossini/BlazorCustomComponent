@@ -1,0 +1,18 @@
+﻿.my-component {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}
+
+.my-buttonkeeper {
+    text-align: center;
+}
+
+.my-button {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}

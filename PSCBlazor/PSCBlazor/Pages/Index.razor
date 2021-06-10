@@ -1,0 +1,15 @@
+﻿@page "/"
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+<Component1 ParentName="This is a test" @bind-Text="_text"></Component1>
+
+The text from the component is: @_text
+
+@code {
+	private string _text = "";
+}
